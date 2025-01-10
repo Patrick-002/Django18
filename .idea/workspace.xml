@@ -4,18 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="093ae084-6116-4c16-97b5-3369c5e760d9" name="Changes" comment="Module_18_2 done">
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task3/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task3/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task3/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task3/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task3/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task3/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/games.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/platform.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+    <list default="true" id="093ae084-6116-4c16-97b5-3369c5e760d9" name="Changes" comment="Module_18_3 fix">
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task4/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task4/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task4/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task4/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task4/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task4/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/games.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/platform.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" afterDir="false" />
@@ -61,7 +61,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/kiril.KURILL/PycharmProjects/Django18/UrbanDjango/templates/third_task",
+    "last_opened_file_path": "C:/Users/kiril.KURILL/PycharmProjects/Django18/UrbanDjango/templates/fourth_task",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,6 +72,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kiril.KURILL\PycharmProjects\Django18\UrbanDjango\templates\fourth_task" />
       <recent name="C:\Users\kiril.KURILL\PycharmProjects\Django18\UrbanDjango\templates\third_task" />
       <recent name="C:\Users\kiril.KURILL\PycharmProjects\Django18\UrbanDjango\templates\second_task" />
     </key>
@@ -93,7 +94,8 @@
       <option name="presentableId" value="Default" />
       <updated>1736257343028</updated>
       <workItem from="1736257344080" duration="3381000" />
-      <workItem from="1736434426412" duration="2938000" />
+      <workItem from="1736434426412" duration="3201000" />
+      <workItem from="1736507837882" duration="2365000" />
     </task>
     <task id="LOCAL-00001" summary="Module_18_1 done">
       <option name="closed" value="true" />
@@ -111,7 +113,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736260716997</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Module_18_3 done">
+      <option name="closed" value="true" />
+      <created>1736437655881</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736437655881</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Module_18_3 fix">
+      <option name="closed" value="true" />
+      <created>1736508094322</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736508094322</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +138,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Module_18_1 done" />
     <MESSAGE value="Module_18_2 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module_18_2 done" />
+    <MESSAGE value="Module_18_3 done" />
+    <MESSAGE value="Module_18_3 fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module_18_3 fix" />
   </component>
 </project>
